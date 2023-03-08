@@ -18,15 +18,15 @@ export default function Home({ allPostsData }) {
   return (
     <Layout home>
       <Head>
-        <title>{siteTitle} &#9774;</title>
+        <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>how to be a taoist?
+        <p>how to be a taoist? <br /><br />
 Taoism is an ancient Chinese philosophy that emphasizes living in harmony with the Tao, or the natural way of the universe. Here are some steps you can take to begin practicing Taoism:
 
 Study Taoist teachings: Read books about Taoism, such as the Tao Te Ching, the Zhuangzi, and the Liezi, to gain a deeper understanding of Taoist philosophy.
 
-Embrace simplicity: Taoism emphasizes living a simple, uncluttered life. Try to simplify your surroundings, your schedule, and your possessions.
+<br /> <br /> Embrace simplicity: Taoism emphasizes living a simple, uncluttered life. Try to simplify your surroundings, your schedule, and your possessions.
 
 Practice meditation: Taoist meditation techniques, such as breathing exercises and mindfulness, can help you connect with the natural world and achieve a state of inner peace.
 
@@ -34,7 +34,7 @@ Cultivate compassion: Taoism teaches that kindness and compassion are essential 
 
 Live in harmony with nature: Taoists believe in living in harmony with the natural world. Spend time in nature, cultivate a garden, and reduce your environmental impact.
 
-Let go of attachments: Taoism emphasizes letting go of attachments and desires. Practice detachment by accepting what comes and goes in your life without judgment or resistance.
+<br /><br /> Let go of attachments: Taoism emphasizes letting go of attachments and desires. Practice detachment by accepting what comes and goes in your life without judgment or resistance.
 
 Emphasize the present moment: Taoism teaches that the present moment is the only reality. Focus on the present and try to be mindful of your thoughts and actions.
 
