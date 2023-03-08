@@ -18,7 +18,7 @@ export default function Home({ allPostsData }) {
   return (
     <Layout home>
       <Head>
-        <title>{siteTitle}</title>
+        <title>{siteTitle} &#9774;</title>
       </Head>
       <section className={utilStyles.headingMd}>
         <p>how to be a taoist?
@@ -39,10 +39,7 @@ Let go of attachments: Taoism emphasizes letting go of attachments and desires. 
 Emphasize the present moment: Taoism teaches that the present moment is the only reality. Focus on the present and try to be mindful of your thoughts and actions.
 
 Remember that Taoism is a personal practice, and everyone's path may look different. Find what works best for you and embrace the principles of simplicity, compassion, and harmony with nature.</p>
-        <p>
-          (This is a sample website - you’ll be building a site like this on{" "}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p>
+
       </section>
 
       {/* Add this <section> tag below the existing <section> tag */}
